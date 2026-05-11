@@ -4,8 +4,8 @@ import re
 import telebot
 from groq import Groq
 
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
+TELEGRAM_TOKEN = "8375650366:AAEaRodd424aYLPf7cn9hpgr-xAuqraC98k"
+GROQ_API_KEY = "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"
 
 SKLAD_FILE = "sklad.json"
 
